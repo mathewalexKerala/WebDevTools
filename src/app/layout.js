@@ -9,6 +9,8 @@ export const mETADatA = {
     "Cool web dev tools, that can help you with your journey as a web developer",
 };
 
+
+
 export default function RoOTLAyOut({ children }) {
   return (
     <html lang="en" className="overflow-x-hidden">
